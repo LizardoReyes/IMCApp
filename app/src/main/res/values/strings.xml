@@ -4,4 +4,12 @@
     <string name="female">Female</string>
     <string name="height">Height</string>
     <string name="result_height">%s cms</string>
+    <string name="weight">Weight</string>
+    <string name="age">Age</string>
+    <string name="calculate">Calculate</string>
+    <string name="imc_underweight">Underweight</string>
+    <string name="imc_normal">Normal</string>
+    <string name="imc_overweight">Overweight</string>
+    <string name="imc_obesity">Obesity</string>
+    <string name="result_imc">IMC: %f (%s)</string>
 </resources>
